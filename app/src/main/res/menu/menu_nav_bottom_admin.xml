@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnHome"
+        android:icon="@drawable/navbar_icon_home_selector"
+        android:title="@string/trang_chu" />
+    <item
+        android:id="@+id/btnDSPhongTro"
+        android:icon="@drawable/navbar_icon_building_selector"
+        android:title="@string/phong_tro" />
+    <item
+        android:id="@+id/btnUser"
+        android:icon="@drawable/navbar_icon_people_selector"
+        android:title="@string/nguoi_dung" />
+
+</menu>
